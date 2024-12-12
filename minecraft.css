@@ -1,0 +1,64 @@
+body {
+  background-color: #A3B18C;
+  color: #5D5C5C; 
+  font-family: 'Minecraft', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+
+header {
+  background-color: #5C4033; 
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  font-size: 2.5em;
+  text-shadow: 2px 2px 4px #000;
+  
+}
+
+button {
+  background-color: #C5B48D; 
+  color: #3D2A1F; 
+  border: 2px solid #5D5C5C;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  
+}
+
+button:hover {
+  background-color: #A0A0A0;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+div */
+.block {
+  background-color: #8C8C8C;
+  padding: 20px;
+  margin: 15px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+footer {
+  background-color: #3E2911; 
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+
+a {
+  color: #5C4033; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #8C8C8C; 
+}
